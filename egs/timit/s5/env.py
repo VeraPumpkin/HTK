@@ -1,0 +1,1 @@
+tools='..\..\..'+r'\samples\HTKTutorial'

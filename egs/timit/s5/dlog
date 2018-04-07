@@ -1,0 +1,82 @@
+WARNING: no script file global.ded
+WARNING: no script file data/dict/timitdic.ded
+Missing Words
+-------------
+BATHS"
+BOURGEOISIE
+CLOSE
+CONFIRMATION"
+ETC
+HEPATITIS"
+LINED
+LIVE
+MRS
+NOTHING"
+NUMBNESS"
+OBJECT
+PRESENT
+PROJECT
+READ
+SEPARATE
+SIMMERED
+USE
+WOUND
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+    timitdic      6218       4892       6218       4892
+        dict      4892       4892       4892       4892
+
+4911 words required, 19 missing
+
+New Phone Usage Counts
+---------------------
+  1. ax    :  1031
+  2. sp    :  4892
+  3. b     :   556
+  4. r     :  1440
+  5. iy    :  1030
+  6. v     :   448
+  7. ey    :   536
+  8. t     :  1917
+  9. ay    :   486
+ 10. d     :  1291
+ 11. z     :   928
+ 12. ih    :  1326
+ 13. l     :  1313
+ 14. ix    :  1156
+ 15. el    :   309
+ 16. aa    :   488
+ 17. sh    :   360
+ 18. ae    :   746
+ 19. axr   :   656
+ 20. jh    :   242
+ 21. n     :  1699
+ 22. aw    :   130
+ 23. ah    :   398
+ 24. p     :   893
+ 25. s     :  1779
+ 26. uw    :   353
+ 27. ao    :   382
+ 28. er    :   254
+ 29. k     :  1289
+ 30. eh    :   734
+ 31. m     :   837
+ 32. ng    :   407
+ 33. y     :   203
+ 34. ch    :   163
+ 35. w     :   318
+ 36. hh    :   267
+ 37. f     :   536
+ 38. ow    :   401
+ 39. g     :   351
+ 40. dh    :    73
+ 41. uh    :   150
+ 42. oy    :    63
+ 43. th    :   123
+ 44. en    :    65
+ 45. zh    :    28
+ 46. em    :    20
+
+Dictionary data/dict/dict created
